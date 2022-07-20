@@ -4,7 +4,7 @@
     "name": "GSI-BinaryVectorMap",
     "format": "pbf",
     "maxzoom": 17,
-    "minzoom": 5,
+    "minzoom": 14,
     "attribution": "国土地理院",
     "description": "GSI Experiment",
     "vector_layers": [
@@ -13,8 +13,9 @@
             "fields": {
                 "motorway": "String"
             },
-            "maxzoom": 14,
-            "minzoom": 0,
+            "ftCode": {2201, 2241, 2204, 2244, 2701, 2702},
+            "maxzoom": 17,
+            "minzoom": 14,
             "description": ""
         }
     ],
