@@ -4,7 +4,7 @@
     "name": "GSI-BinaryVectorMap",
     "format": "pbf",
     "maxzoom": 17,
-    "minzoom": 14,
+    "minzoom": 5,
     "attribution": "国土地理院",
     "description": "GSI Experiment",
     "vector_layers": [
@@ -13,8 +13,8 @@
             "fields": {
                 "motorway": "String"
             },
-            "maxzoom": 17,
-            "minzoom": 14,
+            "maxzoom": 14,
+            "minzoom": 0,
             "description": ""
         }
     ],
