@@ -13,7 +13,6 @@
             "fields": {
                 "motorway": "String"
             },
-            "ftCode": {2201, 2241, 2204, 2244, 2701, 2702},
             "maxzoom": 17,
             "minzoom": 14,
             "description": ""
